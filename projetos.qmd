@@ -1,0 +1,12 @@
+---
+title: "projetos"
+---
+
+Nesta página você encontrará os meus projetos de data science.
+
+## Projeto 1
+
+Neste projeto, iremos organizar as características dos pinguins da estação Palmer.
+
+## Projeto 2
+Neste projeto, introduziremos as principais técnicas de webscraping com r.

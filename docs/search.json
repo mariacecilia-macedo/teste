@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "testewebsite",
+    "section": "",
+    "text": "seja bem-vindo a minha página!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "projetos",
+    "section": "",
+    "text": "Nesta página você encontrará os meus projetos de data science."
+  },
+  {
+    "objectID": "projetos.html#projeto-1",
+    "href": "projetos.html#projeto-1",
+    "title": "projetos",
+    "section": "Projeto 1",
+    "text": "Projeto 1\nNeste projeto, iremos organizar as características dos pinguins da estação Palmer."
+  },
+  {
+    "objectID": "projetos.html#projeto-2",
+    "href": "projetos.html#projeto-2",
+    "title": "projetos",
+    "section": "Projeto 2",
+    "text": "Projeto 2\nNeste projeto, introduziremos as principais técnicas de webscraping com r."
+  }
+]

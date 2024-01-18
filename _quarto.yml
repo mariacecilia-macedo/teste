@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "maria cecília"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - projetos.qmd
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+    lang: pt
+
+editor: visual
+
