@@ -1,0 +1,9 @@
+---
+title: "recomendações"
+listing: 
+  type: grid
+  sort: "date"
+  contents: posts
+---
+
+aqui deixarei algumas recomendações de coisas que achar interessante ao longo do tempo

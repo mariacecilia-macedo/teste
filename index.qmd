@@ -1,17 +1,19 @@
 ---
-title: "maria cecília macedo"
+title: "maria cecília"
 about:
   image: foto_teste.jpg
   template: jolla
   image-shape: rounded
   image-width: 15em 
   links:
-  - icon: twitter
-    text: twitter
-    href: https://twitter.com
   - icon: github
-    text: Github
-    href: https://github.com
+    text: github
+    href: https://github.com/mariacecilia-macedo
+  - icon: envelope-at
+    text: email
+    href: mailto:mariacecilia.macedo22@gmail.com
 ---
 
-seja bem-vindo a minha página!
+## um pouco sobre mim 
+
+olá! me chamo maria cecília e curso estatística na universidade federal de uberlândia desde 2021. 

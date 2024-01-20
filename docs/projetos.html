@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>maria cecília - projetos</title>
+<title>maria cecilia macedo - projetos</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./tubarao_dentuco.jpg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,7 +61,38 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Enviar"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-stardew-valley .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: [],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-stardew-valley'] = new List('listing-stardew-valley', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -71,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">maria cecília</span>
+    <span class="navbar-title">maria cecilia macedo</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
@@ -82,15 +116,15 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+ <span class="menu-text">início</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./projetos.html" rel="" target="" aria-current="page">
  <span class="menu-text">projetos</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./coisas_legais.html" rel="" target="">
+ <span class="menu-text">algumas coisas</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -108,8 +142,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Nesta página</h2>
    
   <ul>
-  <li><a href="#projeto-1" id="toc-projeto-1" class="nav-link active" data-scroll-target="#projeto-1">Projeto 1</a></li>
-  <li><a href="#projeto-2" id="toc-projeto-2" class="nav-link" data-scroll-target="#projeto-2">Projeto 2</a></li>
+  <li><a href="#cogumelos" id="toc-cogumelos" class="nav-link active" data-scroll-target="#cogumelos">cogumelos</a></li>
+  <li><a href="#lista-de-presentes---stardew-valley" id="toc-lista-de-presentes---stardew-valley" class="nav-link" data-scroll-target="#lista-de-presentes---stardew-valley">lista de presentes - stardew valley</a></li>
   </ul>
 </nav>
     </div>
@@ -133,19 +167,27 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Nesta página você encontrará os meus projetos de data science.</p>
-<section id="projeto-1" class="level2">
-<h2 class="anchored" data-anchor-id="projeto-1">Projeto 1</h2>
-<p>Neste projeto, iremos organizar as características dos pinguins da estação Palmer.</p>
+<p>nesta página você encontrará os meus projetos.</p>
+<section id="cogumelos" class="level2">
+<h2 class="anchored" data-anchor-id="cogumelos">cogumelos</h2>
+<p>construção de uma árvore de decisão para classificar cogumelos como comestíveis ou venenosos.</p>
 </section>
-<section id="projeto-2" class="level2">
-<h2 class="anchored" data-anchor-id="projeto-2">Projeto 2</h2>
-<p>Neste projeto, introduziremos as principais técnicas de webscraping com r.</p>
+<section id="lista-de-presentes---stardew-valley" class="level2">
+<h2 class="anchored" data-anchor-id="lista-de-presentes---stardew-valley">lista de presentes - stardew valley</h2>
+<p>web scraping para a criação de um arquivo com todos os cidadãos da vila pelicanos e a classificação dada a determinado presente. :::{#stardew-valley} :::</p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-stardew-valley">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+Nenhum item correspondente
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

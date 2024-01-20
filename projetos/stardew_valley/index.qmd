@@ -1,0 +1,8 @@
+---
+title: "lista de presentes - stardew valley"
+image: stardew_valley.jpg
+categories: [webscraping, R]
+language: _custom.yml
+---
+
+faremos uma raspagem de dados da wiki de stardew valley

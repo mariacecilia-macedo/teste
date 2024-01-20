@@ -1,12 +1,14 @@
 ---
 title: "projetos"
+listing:
+  type: default
+  sort: "date"
 ---
 
-Nesta página você encontrará os meus projetos de data science.
+nesta página você encontrará os meus projetos.
 
-## Projeto 1
+## lista de presentes - stardew valley
+web scraping para a criação de um arquivo com todos os cidadãos da vila pelicanos e a classificação dada a determinado presente.
+:::{#stardew-valley}
 
-Neste projeto, iremos organizar as características dos pinguins da estação Palmer.
-
-## Projeto 2
-Neste projeto, introduziremos as principais técnicas de webscraping com r.
+::: 

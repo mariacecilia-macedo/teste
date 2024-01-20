@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "maria cecília macedo",
+    "title": "maria cecília",
     "section": "",
-    "text": "seja bem-vindo a minha página!"
+    "text": "olá! me chamo maria cecília e curso estatística na universidade federal de uberlândia desde 2021."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "projetos.html",
     "title": "projetos",
     "section": "",
-    "text": "Nesta página você encontrará os meus projetos de data science."
+    "text": "nesta página você encontrará os meus projetos."
   },
   {
     "objectID": "projetos.html#projeto-1",
@@ -33,5 +33,33 @@
     "title": "projetos",
     "section": "Projeto 2",
     "text": "Projeto 2\nNeste projeto, introduziremos as principais técnicas de webscraping com r."
+  },
+  {
+    "objectID": "index.html#um-pouco-sobre-mim",
+    "href": "index.html#um-pouco-sobre-mim",
+    "title": "maria cecília",
+    "section": "",
+    "text": "olá! me chamo maria cecília e curso estatística na universidade federal de uberlândia desde 2021."
+  },
+  {
+    "objectID": "projetos.html#cogumelos",
+    "href": "projetos.html#cogumelos",
+    "title": "projetos",
+    "section": "cogumelos",
+    "text": "cogumelos\nconstrução de uma árvore de decisão para classificar cogumelos como comestíveis ou venenosos."
+  },
+  {
+    "objectID": "projetos.html#lista-de-presentes---stardew-valley",
+    "href": "projetos.html#lista-de-presentes---stardew-valley",
+    "title": "projetos",
+    "section": "lista de presentes - stardew valley",
+    "text": "lista de presentes - stardew valley\nweb scraping para a criação de um arquivo com todos os cidadãos da vila pelicanos e a classificação dada a determinado presente. :::{#stardew-valley} :::"
+  },
+  {
+    "objectID": "coisas_legais.html",
+    "href": "coisas_legais.html",
+    "title": "recomendações",
+    "section": "",
+    "text": "aqui deixarei algumas recomendações de coisas que achar interessante ao longo do tempo\n\n\n\n\n\n\n\n\n\nNenhum item correspondente"
   }
 ]
